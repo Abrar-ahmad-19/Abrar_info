@@ -1,4 +1,4 @@
-![logo](https://github.com/Mubashir12-a/Mubashir12-a/blob/main/Github%20Banner.png)
+![logo](https://github.com/Abrar-ahmad-19/Abrar_info/blob/main/Screenshot_2024-07-29-11-46-15-27_c0d35d5c8ea536686f7fb1c9f2f8f274.jpg)
 <h1 align="center">Hello 👋, I'm ABRAR AHMAD </h1>
 <h3 align="center">Front-end Web Developer & Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
