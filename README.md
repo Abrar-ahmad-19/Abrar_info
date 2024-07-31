@@ -2,26 +2,26 @@
 <h1 align="center">Hello 👋, I'm ABRAR AHMAD </h1>
 <h3 align="center">Front-end Web Developer & Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir12-a&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir12-a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abrar-ahmad-19-a&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-ahmad"/> </p>
 🌱 I’m currently learning Frameworks <br>
-👨‍💻 All of my projects are available on GitHub: Mubashir12-a <br>
-💬 Ask me about HTML, CSS, JS, C <br>
-📫 Get in touch: ma2625645@gmail.com <br>
+👨‍💻 All of my projects are available on GitHub: Abrar-Ahmad <br>
+💬 Ask me about HTML, CSS, C <br>
+📫 Get in touch: abrarahmad298440@gmail.com <br>
 <hr><hr><hr><hr><hr><hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mubashir12-a" alt="mubashir12-a" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abrar-ahmad-19" alt="abrar-ahmad" />
   </a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mubashir-ahmad-867b712a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <a href="https://www.linkedin.com/in/abrar-ahmad-65330a2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100047111971970&mibextid=ZbWKwL" target="blank">
+  <a href="https://www.facebook.com/tawfeeq.meer.37?mibextid=ZbWKwL" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/0_._.mubashir._._0" target="blank">
+  <a href="https://instagram.com/abrar_a_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
@@ -49,13 +49,13 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir12-a&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abrar-ahmad-19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubashir12-a&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrar-ahmad-19&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir12-a" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abrar-ahmad-19" alt="GitHub Streak" />
 </p>
